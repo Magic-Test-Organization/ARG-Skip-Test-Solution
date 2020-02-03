@@ -4,5 +4,5 @@
 // An error will be generated if a file is not found
 // Perhaps it should only generate a warning though
 
-missingfile.py
-// skipme.py
+// missingfile.py
+
