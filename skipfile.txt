@@ -5,4 +5,4 @@
 // Perhaps it should only generate a warning though
 
 missingfile.py
-// skipme.py
+skipme.py
