@@ -13,4 +13,4 @@ skipme.py
 
 # slow test2
 
-# superfasttestin
+# superfasttesting
