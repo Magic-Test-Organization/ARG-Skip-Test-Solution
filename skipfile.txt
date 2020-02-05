@@ -9,3 +9,4 @@ skipme.py
 
 # timestamp check 1
 # sha check 1
+# speedtesting
