@@ -19,7 +19,7 @@
 # checking shas  3
 # checking student repo hook 1
 
-# fast 1
+# fast 2
 
 def my_function():
     print("hello")
