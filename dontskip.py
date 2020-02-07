@@ -20,7 +20,7 @@
 # checking student repo hook 1
 
 # fast 2
-# version 7
+# version 8
 
 def my_function():
     print("hello")
