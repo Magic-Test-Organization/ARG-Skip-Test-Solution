@@ -29,3 +29,8 @@ def student_work():
     # $%$Start
     print("solution")
     # $%$End
+    print("more boilerplate")
+
+    # $%$Start
+    print("more your work here")
+    # $%$End
