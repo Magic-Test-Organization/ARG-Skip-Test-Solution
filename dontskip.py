@@ -33,4 +33,8 @@ def student_work():
 
     # $%$Start
     print("more your work here")
+    print("more solution code added")
     # $%$End
+
+
+
