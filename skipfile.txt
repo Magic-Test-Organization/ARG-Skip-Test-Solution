@@ -6,9 +6,9 @@
 
 // Folders may be ignored with `ignore_folder/`
 
-missingfile.py
-skipme.py
+// missingfile.py
+//skipme.py
 
-ignore_folder/
+//ignore_folder/
 
 # 4

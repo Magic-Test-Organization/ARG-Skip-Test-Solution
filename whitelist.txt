@@ -5,4 +5,8 @@
 // If it has entries, _only_ the files listed will
 // transfer to the student repo
 
-
+folder/
+1.py
+3.py
+5.py
+README.md
