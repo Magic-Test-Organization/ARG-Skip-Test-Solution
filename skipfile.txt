@@ -1,10 +1,14 @@
 # You can write comments in this file
 // You can also use slashes for them
 // Whitespace will be ignored
-// An error will be generated if a file is not found
-// Perhaps it should only generate a warning though
-
-// Folders may be ignored with `ignore_folder/`
+// If this file has no entries, it will be ignored
+// If it has entries, _only_ the files listed will
+// transfer to the student repo
+// If both whitelist.txt and skipfile.txt have entries
+// an error will be generated.
+// Entire folders can be skipped by the/path/to/folder/
+// You must include a single '/' at the end of the folder name
+// If a file or folder is not found, it will be ignored
 
 // missingfile.py
 //skipme.py
